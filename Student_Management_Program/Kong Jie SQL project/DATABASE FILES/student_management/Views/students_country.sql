@@ -1,0 +1,9 @@
+INSERT INTO `students_country` VALUES ('Zimbabwe', 'Joakim');
+INSERT INTO `students_country` VALUES ('Cameroon', 'Pavese');
+INSERT INTO `students_country` VALUES ('Zimbabwe', 'Claire');
+INSERT INTO `students_country` VALUES ('Zambia', 'Andrew');
+INSERT INTO `students_country` VALUES ('Zimbabwe', 'Ishmael');
+INSERT INTO `students_country` VALUES ('Zambia', 'Shadreck');
+INSERT INTO `students_country` VALUES ('Zambia', 'Nizasono');
+INSERT INTO `students_country` VALUES ('Tanzania', 'Abihudi');
+INSERT INTO `students_country` VALUES ('Tanzania', 'Greggory');

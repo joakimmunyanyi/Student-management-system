@@ -1,0 +1,18 @@
+INSERT INTO `student_grade_view` VALUES ('Joakim', 'Computer Science', 'Intro to Computers', 98);
+INSERT INTO `student_grade_view` VALUES ('Joakim', 'Computer Science', 'C', 90);
+INSERT INTO `student_grade_view` VALUES ('Joakim', 'Computer Science', 'C++', 100);
+INSERT INTO `student_grade_view` VALUES ('Joakim', 'Computer Science', 'Java', 92);
+INSERT INTO `student_grade_view` VALUES ('Joakim', 'Computer Science', 'SQL Databases', 0);
+INSERT INTO `student_grade_view` VALUES ('Joakim', 'Computer Science', 'Data Structs & Algorithms', 0);
+INSERT INTO `student_grade_view` VALUES ('Joakim', 'Computer Science', 'Digital Logic', 0);
+INSERT INTO `student_grade_view` VALUES ('Joakim', 'Computer Science', 'Python', 0);
+INSERT INTO `student_grade_view` VALUES ('Joakim', 'Computer Science', 'linux', 0);
+INSERT INTO `student_grade_view` VALUES ('Joakim', 'Computer Science', 'Computer Composition Principle', 0);
+INSERT INTO `student_grade_view` VALUES ('Joakim', 'Computer Science', '3D Max', 0);
+INSERT INTO `student_grade_view` VALUES ('Joakim', 'Computer Science', 'Operating Systems', 0);
+INSERT INTO `student_grade_view` VALUES ('Joakim', 'Computer Science', 'Computer Network principles', 0);
+INSERT INTO `student_grade_view` VALUES ('Joakim', 'Computer Science', 'Web page Design (HTML)', 0);
+INSERT INTO `student_grade_view` VALUES ('Joakim', 'Computer Science', 'Web Systems and technology', 0);
+INSERT INTO `student_grade_view` VALUES ('Joakim', 'Computer Science', 'E-commerce', 0);
+INSERT INTO `student_grade_view` VALUES ('Joakim', 'Computer Science', 'Computer network course design ', 0);
+INSERT INTO `student_grade_view` VALUES ('Joakim', 'Computer Science', 'Web system and tech course design', 0);

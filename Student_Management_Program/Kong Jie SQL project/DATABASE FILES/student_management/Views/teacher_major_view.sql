@@ -1,0 +1,15 @@
+INSERT INTO `teacher_major_view` VALUES ('Zheng Kai Xuan', 'Civil Engineering');
+INSERT INTO `teacher_major_view` VALUES ('Ou mang', 'Civil Engineering');
+INSERT INTO `teacher_major_view` VALUES ('Xie XiaoJie', 'Civil Engineering');
+INSERT INTO `teacher_major_view` VALUES ('Luo Lin', 'Civil Engineering');
+INSERT INTO `teacher_major_view` VALUES ('Ouyang', 'Computer Science');
+INSERT INTO `teacher_major_view` VALUES ('Sun Bing', 'Computer Science');
+INSERT INTO `teacher_major_view` VALUES ('Li jing jing', 'Computer Science');
+INSERT INTO `teacher_major_view` VALUES ('Mao jian jing', 'Computer Science');
+INSERT INTO `teacher_major_view` VALUES ('TanTongDe', 'Computer Science');
+INSERT INTO `teacher_major_view` VALUES ('Feng  Nai Qin', 'Computer Science');
+INSERT INTO `teacher_major_view` VALUES ('Feng Meng Qing', 'Computer Science');
+INSERT INTO `teacher_major_view` VALUES ('Yao Yin le', 'Computer Science');
+INSERT INTO `teacher_major_view` VALUES ('li meng', 'Electrical Engineering');
+INSERT INTO `teacher_major_view` VALUES ('Li Yen', 'Mechatronics');
+INSERT INTO `teacher_major_view` VALUES ('li ren', 'Pharmacy');
